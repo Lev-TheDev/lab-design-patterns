@@ -9,6 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class LabDesignPatternsApplication {
 
 	public static void main(String[] args) {
+		// http://127.0.0.1:8080/swagger-ui/index.html
 		SpringApplication.run(LabDesignPatternsApplication.class, args);
 	}
 
